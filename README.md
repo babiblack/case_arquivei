@@ -1,5 +1,5 @@
 # case_arquivei
-Disponibilização dos arquivos utilizados na resolução do case da Arquivei
+Documentação da resolução do case da Arquivei
 
 **Case Arquivei**
 
