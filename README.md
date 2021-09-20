@@ -4,9 +4,11 @@ Disponibilização dos arquivos utilizados na resolução do case da Arquivei
 **Case Arquivei**
 
 Elaborado em: 2021-09-20
+
 Elaborado por: Bárbara Aires Marques
 
 Link para o dashboard: https://drive.google.com/file/d/1tqEgQDk641ip5TVDIe9h-0lfHNypjohk/view?usp=sharing
+
 Link para a apresentação: https://docs.google.com/presentation/d/13ZRkBSC22pNbv8QRK-JsHcx646qkIZJmiBlSDThiquk/edit?usp=sharing
 
 ---------------
@@ -54,6 +56,8 @@ A apresentação com os resultados interessantes e insights concluídos a partir
 
 O tratamento dos dados foi realizado dentro da ferramenta Power BI.
 
+Esta etapa também poderia ter sido realizada por SQL, utilizando as funções **CASE WHEN** e **DATE**. Como seria necessário fazer o upload da base de dados em uma ferramenta como Big Query ou MySQL, e visto que o PowerBI oferece essa facilidade com grande rapidez, optou-se pela última opção.
+
 O tratamento envolveu:
 
 **3.1 Substituição de caracteres não reconhecidos automaticamente (acentos, cedilhas, etc) pelos caracteres corretos**
@@ -72,9 +76,7 @@ Realizado pela ferramenta Adicionar Coluna Condicional em Transformar Dados
 
 Adiciona com adição de nova tabela e input de dados com linguagem DAX, com as fórmulas CALENDAR, DAY, MONTH, YEAR e FORMAT
 
----
 
-O tratamento também poderia ter sido realizado por SQL, utilizando a função **CASE WHEN** e **DATE**. Como seria necessário fazer o upload da base de dados em uma ferramenta como Big Query ou MySQL, e visto que o PowerBI oferece essa facilidade com grande rapidez, optou-se pela última opção.
 
 --------------
 **4) Confecção do dashboard**
