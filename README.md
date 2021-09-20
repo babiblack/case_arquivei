@@ -7,9 +7,11 @@ Elaborado em: 2021-09-20
 
 Elaborado por: Bárbara Aires Marques
 
-Link para o dashboard: https://drive.google.com/file/d/1tqEgQDk641ip5TVDIe9h-0lfHNypjohk/view?usp=sharing
+Link externo para o dashboard: https://drive.google.com/file/d/1tqEgQDk641ip5TVDIe9h-0lfHNypjohk/view?usp=sharing
 
-Link para a apresentação: https://docs.google.com/presentation/d/13ZRkBSC22pNbv8QRK-JsHcx646qkIZJmiBlSDThiquk/edit?usp=sharing
+Link externo para a apresentação em slides: https://docs.google.com/presentation/d/13ZRkBSC22pNbv8QRK-JsHcx646qkIZJmiBlSDThiquk/edit?usp=sharing
+
+A apresentação também está disponibilizada neste repositório como um arquivo PDF.
 
 ---------------
 **1) Base de Dados**
@@ -74,7 +76,7 @@ Realizado pela ferramenta Adicionar Coluna Condicional em Transformar Dados
 
 **3.4 Introdução de uma tabela calendário utilizando a linguagem DAX.**
 
-Adiciona com adição de nova tabela e input de dados com linguagem DAX, com as fórmulas CALENDAR, DAY, MONTH, YEAR e FORMAT
+Adiciona com adição de nova tabela e input de dados com linguagem DAX, com as fórmulas CALENDAR, DAY, MONTH, YEAR e FORMAT. Mais detalhes podem ser vistos no arquivo cod_tabela_calendario.md, dentro deste repositório.
 
 
 
@@ -98,7 +100,7 @@ Apesar de permitido tanto para a confecção do case, como também está elencad
 
 Visto isso, optou-se pelo compartilhamento do arquivo original (.pbix) publicamente através do Google Drive, permitindo que qualquer pessoa com o link possa baixar o arquivo e visualizar dentro do Power BI, que possui a licença básica gratuita tanto para Desktop quanto para Mobile.
 
-Entende-se que, em um ambiente corporativo, haveria uma licença Pro permitindo o compartilhamento com usuários externos à organização.
+Entende-se que, em um ambiente corporativo, haveria uma licença Pro permitindo o compartilhamento com usuários externos à organização com poucos cliquei (ferramenta Publicar dentro do Power BI)
 
 --------------
 **6) Apresentação**
